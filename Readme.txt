@@ -11,12 +11,6 @@ Instructions:
   warnings, the game will start
 
 ----------------------------------------------------
-
-This package has been created by GamesNostalgia
-
-GamesNostalgia is a non-professional and non-profit website created and
-maintained by a group of videogames lovers and retrogames fans.
-
 If you like what we do, you can support us with a donation:
 
 https://gamesnostalgia.com/donate
