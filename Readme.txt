@@ -1,5 +1,5 @@
 ----------------------------------------------------
-AGE OF EMPIRES I - Reduced Size version
+AGE OF EMPIRES I
 
 This game has been tested on Windows 7 and 10 and it's fully working.
 
@@ -24,14 +24,6 @@ https://gamesnostalgia.com/donate
 
 The Age of Empires II: Definitive Edition is available for purchase here:
 https://www.ageofempires.com/buy-now
-
-
-Enjoy!
-
-
-For more retrogames, go to:
-https://gamesnostalgia.com
-
 
 
 
