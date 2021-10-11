@@ -1,0 +1,241 @@
+Main Cheats: 
+
+GUNSGUNSGUNS = Weapon Cheat 
+IFIWEREARICHMAN = Money Cheat 
+GESUNDHEIT = Health Cheat 
+TURTOISE (or TORTOISE, in 1.1) = Armor Cheat 
+
+Weather Cheats: 
+
+SKINCANCERFORME = Nice Weather 
+ILiKESCOTLAND = Fog Thickness Level 1 
+ILOVESCOTLAND = Fog Thickness Level 2 
+PEASOUP = Fog Thickness Level 3 
+
+Pedestrian Cheats: 
+
+ITSALLGOINGMAAAD = Crazy Peds 
+NOBODYLIKESME = Peds Want To Kill You 
+WEAPONSFORALL = Peds Pack Heat (Carry Weapons) 
+CHITTYCHITTYBB = Flying Cars 
+
+Other Cheats: 
+
+MOREPOLICEPLEASE = Wanted Level Up 
+NOPOLICEPLEASE = Wanted Level Down 
+GIVEUSATANK = Spawn A Tank 
+ANICESETOFWHEELS = See-Thru Cars 
+CORNERSLIKEMAD = Better Driving Code 
+TIMEFLIESWHENYOU = Fast Gameplay 
+ILIKEDRESSINGUP = Change Character 
+BANGBANGBANG = Blow Up Cars Around You 
+
+Unknown Cheats: 
+
+NASTYLIMBCHEAT = Nastier Limb Removal? 
+MADWEATHER = Time Speeds Up? 
+BOOOOORING = Unknown (Time Slows Down?) 
+
+
+Contributed By: rezolution.
+
+01
+Full Armor for Version 1.1
+If you have the 1.1 update (came out 27/06/02), the full armor code, turtoise, has been changed to tortoise.
+
+Contributed By: Edwards.
+
+02
+GLITCHES
+Almost infinite sprinting
+Instead of holding down the sprint button, tap it rapidly and you will be able to run alot further before getiting tired.
+
+Contributed By: Auction Sniper.
+
+02
+FBI CAR
+Steal an FBI car and take it to paint and body. Get it fixed and when you hit the button to turn on the lights while moving, it will have hydros and jump over other cars.
+
+Contributed By: NOS05.
+
+02
+Get to Shoreside Vale once you have access to Staunton Island
+Before you start, make sure you have armor and your health is at 100. Drive to the subway down the street from your house save location and drive your car down the ramp and onto the subway tracks turn right and stay on the left side of the track so the subway doesn't hit you. Keep going until you see on the screen 'St. Francis Airport' drive up to the point where the tunnel has a curve park your car on the left side of the tracks, and get out and go to the right side and hug the wall as tight as you can and wait for the subway to come. Once it comes, let it hit you and you might have to move to the right a little once it hits you so that you go through the wall or sometimes you'll fall through the floor. You should see your character falling through this green or blue screen and then the loading screen should come up and say 'Welcome to Shoreside Vale'. You'll fall right outside or near the airport. 
+Note: If you die you'll go back to Staunton Island.
+
+Contributed By: BannedAccount.
+
+11
+Get to Staunton and Shoreside without any cheats.
+Get an ambulance and drive to the entrance to the Porter Tunnel. Park the ambulance on the left footpath right up against the blue barrier (back facing the barrier). Now jump on top of the ambulance and then jump again. You will end up in "Blue Hell" on top of the tunnel. Now jump over the barrier and continue to run but make sure to stay on the far left side. Keep running following the tunnel to the left until you hit an invisible wall now simply fall off and you will drop from Blue Hell onto Staunton Island a little north of the hospital. To get to Shoreside from here simply take the Porter tunnel as there is no barrier blocking you (the barrier is still in Portland).
+
+This works 100% on the PS2 however on the PC 50% of the time you may need a grenade and full armour as you may get stuck on top of the ambulance so you will need the grenade to blow the ambulance to knock you above the tunnel. Enjoy!
+
+Contributed By: mrnumnuts.
+
+01
+Get to Staunton Island at the very beginning of the game.
+If you want to go to Staunton Island, but don't want to have to complete the missions in portland, then first enter the code chittychittybb. Next, steal a police car and head onto the broken freeway. Go as fast as you can and when you reach the broken part your car will begin to hover. All you do now is just make sure you don't land in the water and then you're in Staunton Island without completing any missions.
+
+Contributed By: spankyx5000.
+
+10
+Unlimited time in Taxi Missions
+Start a Taxi Mission, pick up someone, and drop em' off. Now, go to pick someone else up, but make sure they don't get in your taxi until the time is at exactly 0 seconds left. The timer should disappear, but the passenger will not leave your vehicle. You can now continue doing taxi missions without the timer, until you quit the mission or blow up your cab.
+
+Contributed By: James Bond Nightfire.
+
+01
+UNLOCKABLES
+Flame-Thrower At Your Hideout
+Complete 20 fire mission on each island to get a flame thrower at each hideout.
+
+Contributed By: XPLICIT187.
+
+11
+Hidden Package Rewards
+Each of these weapons are unlocked at your hideout after getting a certain number of hidden packages.
+
+Unlockable	How to Unlock
+AK47 at Hideout	Find 70 Hidden Packages
+Armor at Hideout	Find 50 Hidden Packages
+Grenades at Hideout	Find 30 Hidden Packages
+M16 at Hideout	Find 90 Hidden Packages
+Molotovs at Hideout	Find 60 Hidden Packages
+Pistol at Hideout	Find 10 Hidden Packages
+Rocket Launcher at Hideout	Find 100 Hidden Packages
+Shotgun at Hideout	Find 40 Hidden Packages
+Sniper Rifle at Hideout	Find 80 Hidden Packages
+Uzi at Hideout	Find 20 Hidden Packages
+Contributed By: trustno1.
+
+00
+Police Bribes At Hideout
+Complete 10 vigilante missions on one island to get a police bribe at your hieout. Complete 20 vigilante missions on each island to get a total of 6 police bribes at each hideout.
+
+Contributed By: XPLICIT187.
+
+00
+Unlock The Borgine Taxi
+Complete at least 100 taxi missions to unlock a new, faster taxi.
+
+Contributed By: XPLICIT187.
+
+00
+SECRETS
+Ambulance Mission Rewards
+Complete 35 ambulance missions to get a heart at your hideout. 
+
+Complete 70 ambulance missions to get an adrenaline pill at your hideout. 
+
+Get onto Level 12 in an ambulance mission and you will get the infinite run cheat.
+
+Contributed By: XPLICIT187.
+
+00
+Customize game music
+If you're sick of the regular in game radio stations, you can customize the game with your own MP3s. In the GTAIII folder, look for a folder called MP3. Place all the songs you want into this folder. The next time the game is started, scroll through the radio stations until you get to the last one. A new station should appear, which will play all your personal MP3 songs. 
+
+
+Contributed By: sirck.
+
+00
+Do Taxi Missions with a Different Car
+Drive up to a taxi in the car you intend to use. Get in the taxi, press and hold CAPS LOCK. Still holding CAPS LOCK, get out of the taxi and get in the car you started with. Let go of the CAPS LOCK key and now you can do taxi missions in that car.
+
+Contributed By: Sean A198.
+
+10
+Easy Fire Truck Missions
+Steal a fire truck and begin the Firefighter mode. When you are assigned a new fire to put out, press F1 to start a replay, then F1 again to cancel it. The fire will be immediately extinguished.
+
+Contributed By: MWhite.
+
+10
+Easy Vigilante Missions
+When in a police car, enforcer, fbi car, or rhino, start the vigilante missions. Drive close to the target vehicle, and press ESC to call up the options menu. Choose 'Resume Game', and when the game resumes, your target will stop his/her vehicle and get out, making them much easier to kill.
+
+Contributed By: MWhite.
+
+10
+Editing car stats
+In the GTAIII-directory there should be a subdirectory called data. In this directory, you will find the file handling.cfg, and others, containing the stats for different cars and objects. 
+
+Here you can change the weight of the car (column A, higher is better) and it's crash damage multiplier (column Y, lower is better, 0 means no crash damage), in order to make any car have the weight of a tank, and take no damage from crashes. 
+
+The file itself gives good pointers towards which values should be changed, and you should backup any files you intend to edit. The limits mentioned in the file are just recommendations, you really can put in anything you want. When done, just restart the game, and you edited police car will push vehicles like a Fire Engine, and take absolutely no damage from crashing.
+
+Contributed By: Tippis.
+
+00
+Fit More Cars Into Your Garage
+In your second hideout put in two cars into the garage. Then get out and walk up to the door so it opens. Get into the third car and drive it in before the door closes.
+
+Contributed By: XPLICIT187.
+
+00
+Free Repairs
+Take a damaged car to your garage. Exit the garage, watch the door close, and then open it up again. Your car will be repaired.
+
+Contributed By: Gearbox.
+
+00
+moon cheat
+When the moon is visible at night you can shoot it with your sniper rifle to make it grow larger or shrink.
+
+Contributed By: Juggz.
+
+11
+No More Gang Warz
+In some missions the objective is to kill members of certain gang. These obviously makes the gang anrgy at you and when you drive or run by the gang members they will shoot and try to pull you out of your car. This can be changed by going in to the program files of your GTA game. In this folder is a sub-folder called data. In this folder is a file called pedstats.dat. Open this in Word or Notepad. In this document you can change the stats of every ped in the game. the ones you are looking for is gang 1-7. As the doc suggests if you change their fear(100 is good), temper(0 is good) and lawfullness(100 is good). Careful you might want to backup this file incase you mess up or want to revert back to the old way it was.
+
+Contributed By: jilsondude.
+
+00
+Tip for Entering Codes
+Codes can still be entered while the game is paused (at the menu screen). Hit Esc to pause the game, then type the codes desired. The codes' effects will take place once you unpause. This trick does work for entering multiple codes at once, and is especially useful when you must enter codes quickly.
+
+Contributed By: NTsui.
+
+10
+KNOW SOMETHING WE DON'T?
+You can submit new cheat codes for this game using our Cheat Submission Form.
+
+HAVE WE BEEN FOOLED?
+If you see a non-working or fake code in the list above, let us know by using our Problem Submission Form.
+
+More Grand Theft Auto III from GameSpot
+
+Random Encounter - Grand Theft Auto III
+
+Ex-GTA developer explains why he'll never go back to violent games
+
+Why I Choose to Kill Goombas
+
+Grand Theft Auto III hitting PSN Sept. 25 - Report
+GAME DETAIL
+Grand Theft Auto III
+PC
+DMA Design / Rockstar Games
+Release: May 20, 2002 »
+Also on: PS2 MAC XBOX
+M - Titles rated M (Mature) have content that may be suitable for persons ages 17 and older.
+
+
+GAMES YOU MAY LIKE
+Grand Theft Auto: Vice City
+Grand Theft Auto: Vice City
+From the decade of big hair, excess, and pastel suits comes a story of one man's rise to the top of the criminal pile...
+Grand Theft Auto: San Andreas
+Grand Theft Auto: San Andreas
+Five years ago Carl Johnson escaped from the pressures of life in Los Santos, San Andreas... a city tearing itself ap...
+Grand Theft Auto IV
+Grand Theft Auto IV
+For Niko Bellic, fresh off the boat from Europe, it is the hope he can escape his past. For his cousin, Roman, it is ...
+Bully: Scholarship Edition
+Bully: Scholarship Edition
+Both the Wii and Xbox 360 versions retain the wit and deep gameplay of the previously released PlayStation 2 title Bu...
+Grand Theft Auto 2
+Grand Theft Auto 2
+Grand Theft Auto is back. The cars are faster. The streets are busier. The bad guys are nastier. The police are angri...
+
